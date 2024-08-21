@@ -4,7 +4,7 @@ We created SIPEREA, a scalable imaging platform utilizing cost-effective ESP32-C
 
 ## License
 * BSD-3-Clause
-* AniLength is distributed 'as is'. No warranty of any kind is expressed or implied. You use the program at your own risk.
+* SIPEREA is distributed 'as is'. No warranty of any kind is expressed or implied. You use the program at your own risk.
 
 ## Contact
 * Sang-Kyu Jung (skjung@hongik.ac.kr)
