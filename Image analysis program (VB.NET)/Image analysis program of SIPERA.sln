@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "Image analysis program", "Image analysis program.vbproj", "{D0A92438-FD41-4407-A5EA-E236FA1FFE34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		x64|Any CPU = x64|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0A92438-FD41-4407-A5EA-E236FA1FFE34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0A92438-FD41-4407-A5EA-E236FA1FFE34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0A92438-FD41-4407-A5EA-E236FA1FFE34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0A92438-FD41-4407-A5EA-E236FA1FFE34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0A92438-FD41-4407-A5EA-E236FA1FFE34}.x64|Any CPU.ActiveCfg = x86|Any CPU
+		{D0A92438-FD41-4407-A5EA-E236FA1FFE34}.x64|Any CPU.Build.0 = x86|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47C2D1E5-FA45-415F-A7D5-82CDBE7F3477}
+	EndGlobalSection
+EndGlobal
