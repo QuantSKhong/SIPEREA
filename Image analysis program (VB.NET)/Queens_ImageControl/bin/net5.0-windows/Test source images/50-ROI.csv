@@ -1,0 +1,4 @@
+﻿Condition1,Condition2,Date,Plate#,Well#,Shape,X1,Y1,X2,Y2
+Test,,,1,1,circle,292,222,573,502
+Test,,,1,2,circle,605,92,886,376
+Test,,,1,3,circle,572,432,846,710
